@@ -1,6 +1,6 @@
 # table-reoder-animation
 
-This template should help get you started developing with Vue 3 in Vite.
+These repository is just a little project to study table's reorder animation using vue
 
 ## Recommended IDE Setup
 
